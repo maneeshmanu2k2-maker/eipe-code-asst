@@ -1,0 +1,6 @@
+{
+  "name": "EIPE Code Comprehension Assessment Platform",
+  "description": "Automated assessment of code comprehension using GenAI, Tree-sitter AST analysis, sandbox code generation execution, and HIGH/LOW understanding classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
